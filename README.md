@@ -24,6 +24,9 @@ aws services used
 
 ![image](https://user-images.githubusercontent.com/76225409/196474169-ce91db4c-cddc-4b1c-8d3d-4ff17f7f512c.png)
 
+# bean-stalk-configuration for health check
+![image](https://user-images.githubusercontent.com/76225409/196475881-93477981-7d51-4bb6-8452-58f65d2836ea.png)
+
 # Application up and running
 ![image](https://user-images.githubusercontent.com/76225409/196474431-0cb370f4-1d7c-46ee-bf90-2c010ef1f979.png)
 
@@ -34,4 +37,6 @@ aws services used
 ![image](https://user-images.githubusercontent.com/76225409/196474760-3709934e-5b14-4a50-bcbc-6da87a813d9a.png)
 
 ![image](https://user-images.githubusercontent.com/76225409/196474960-5dd249df-4d43-49c4-82bb-b785ebffe3e2.png)
+
+
 
